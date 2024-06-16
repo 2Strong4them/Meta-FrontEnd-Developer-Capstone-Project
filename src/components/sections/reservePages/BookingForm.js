@@ -125,6 +125,7 @@ export default function ReservationForm(props) {
           <option>None</option>
           <option>Birthday</option>
           <option>Anniversary</option>
+          <option>Wedding</option>
           <option>Engagement</option>
           <option>Other</option>
         </select>
@@ -141,6 +142,8 @@ export default function ReservationForm(props) {
           <option>Indoors</option>
           <option>Outdoor (Patio)</option>
           <option>Outdoor (Sidewalk)</option>
+          <option>Window side</option>
+          <option>Isle</option>
         </select>
       </div>
 
