@@ -30,10 +30,10 @@ export default function Footer() {
         <li>
           <h1 className="footer-header">Contact</h1>
           <ul className="footer-links">
-            <li>2395 Maldove Way,</li>
+            <li>5112 Hungry Way,</li>
             <li>Chicago Illinois</li>
             <br></br>
-            <li>(629)-243-6827</li>
+            <li>(309)-222-3344</li>
             <br></br>
             <a
               href="mailto: info@littlelemon.com"

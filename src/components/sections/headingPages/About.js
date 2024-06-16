@@ -4,10 +4,11 @@ export default function About() {
             <section className="hero-text">
                 <h1>Little Lemon</h1>
                 <h2>Chicago</h2>
-                <p className="about-subtext">Little Lemon opened in 1995 by two Italian brothers, Adrian and Mario. 
-                Despite the city's diversity, the two brothers recognized the lack of Mediterranean cuisine in Chicago, 
-                and were inspired to bring the flavors of their hometown in Italy to the people of Chicago. The two brothers 
-                continue to oversee the Little Lemon restaurant, nearly thirty years later.</p>
+                <p className="about-subtext">Little Lemon sprang to life in 2010, thanks to two charismatic Italian brothers,
+                     Adrian and Mario. Despite Chicago's melting pot of cultures, the brothers noticed a glaring absence of
+                      Mediterranean cuisine and decided to sprinkle a bit of Italy into the Windy City. Fast forward over a 
+                      decade, and these two culinary wizards are still whipping up magic at Little Lemon, making Chicago a tastier 
+                      place, one lemon at a time!.</p>
             </section>
 
             <section className="double-image">
